@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "antd": "3.8.0",
-    "lodash": "4.17.10",
+    "lodash": "4.17.13",
     "mauerwerk": "2.0.0",
     "react": "16.4.2",
     "react-dom": "16.4.2",
